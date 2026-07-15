@@ -11,7 +11,8 @@ To analyze and compare GDP contribution, employment share, and growth rate acros
 •	Agriculture  
 •	Manufacturing  
 •	Services  
-for India and major global economies using large-scale unclean data.  
+for India and major global economies using large-scale.  
+
 
 
 # TOOLS & SKILLS USED
