@@ -1,4 +1,5 @@
-# Economic-Sector-Analysis-of-India-and-Global-Economies-using-Power-BI power BI end to end project
+# Economic-Sector-Analysis-of-India-and-Global-Economies-using-Power-BI.
+* This is power BI end to end project 
 * Cleaned and transformed 15,000+ rows of unstructured economic data using Power Query.
 * Built interactive dashboards with KPI cards, drill-through pages, slicers, tooltips, and cross-filtering.
 * Created DAX measures to analyze GDP, employment share, and growth rates across sectors.
